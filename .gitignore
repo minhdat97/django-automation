@@ -1,0 +1,12 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# Local cred
+creds
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
